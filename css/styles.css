@@ -2781,7 +2781,7 @@ position: absolute;
     top: 0;
     left: 0;
     border-radius: 50%;
-    content: "0" counters(div, '') '';
+    content: counters(div, '') '';
     counter-increment: div;
     font-family: Playfair Display;
     font-style: normal;
