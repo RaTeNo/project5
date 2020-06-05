@@ -6024,14 +6024,15 @@ button:disabled
 {
     margin-top: 9px;
 }
-
+.stock_finish .wrap_link{
+    text-align: center;
+}
 .stock_finish .link
 {
     margin-top: 27px;
     text-align: center;
-    display: block;
+    display: inline-block;
     margin: 30px auto 0;
-    width: 200px;
 }
 
 .stock_finish .link a
