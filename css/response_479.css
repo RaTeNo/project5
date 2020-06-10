@@ -892,4 +892,22 @@
     .quiz_poll .step .links > *{
         padding: 0 20px;
     }
+
+    .btns{
+        flex-wrap: wrap;
+    }
+    .main_slider3 .info .link {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .customPreviousBtn{
+        order:2;
+    }
+
+    .customNextBtn{
+        order:3;
+        margin-left: auto;
+    }
+
 }

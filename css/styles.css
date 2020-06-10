@@ -2190,8 +2190,8 @@ aside > *:last-child
     font-family: Playfair Display;
     font-style: normal;
     font-weight: bold;
-    font-size: 60px;
-    line-height: 67px;
+    font-size: var(--font_size_title);
+    line-height: 53px;
 
     position: relative;
 
@@ -2373,8 +2373,8 @@ position: absolute;
     font-family: Playfair Display;
     font-style: normal;
     font-weight: bold;
-    font-size: 60px;
-    line-height: 67px;
+    font-size: var(--font_size_title);
+    line-height: 53px;
 }
 
 
@@ -2426,8 +2426,8 @@ position: absolute;
     font-family: Playfair Display;
     font-style: normal;
     font-weight: bold;
-    font-size: 60px;
-    line-height: 67px;
+    font-size: var(--font_size_title);
+    line-height: 53px;
     padding: 0;
 }
 .main_slider2 .info .title span{
@@ -2516,8 +2516,8 @@ position: absolute;
     font-family: Playfair Display;
     font-style: normal;
     font-weight: bold;
-    font-size: 60px;
-    line-height: 67px;
+    font-size: var(--font_size_title);
+    line-height: 53px;
 }
 
 .main_slider3 .info .title span{
@@ -4065,6 +4065,7 @@ position: absolute;
 
 .team .item .box_team_item{
     display: flex;    
+    align-items: center;
 }
 
 .ads_block .flex
@@ -4765,7 +4766,6 @@ position: absolute;
 {
     margin-top: 50px;
 
-    justify-content: center;
 }
 
 .gallery .flex.images > *
@@ -5483,7 +5483,7 @@ button:disabled
     color: var(--main_color2);
     font-size: 16px;
     font-weight: bold;
-    line-height: 49px;
+    line-height: 48px;
     display: inline-block;
     height: 53px;
     padding: 0 20px;
@@ -7651,7 +7651,6 @@ footer .links a:hover
     margin-bottom: 30px;
     margin-left: auto;
     margin-left: -15px;
-    justify-content: center;
     flex-wrap: wrap;
 }
 .gallery2 .flex > div
