@@ -1957,7 +1957,7 @@ aside .search .input
     border: none;
     border-radius: 23px;
     background: #fff;
-    box-shadow: 0px 33px 96px rgba(255, 99, 112, 0.690396);
+    box-shadow: 0px 33px 96px var(--box-shadow-color);
 }
 
 aside .search .submit_btn {
@@ -4984,7 +4984,7 @@ position: absolute;
     align-content: center;
     flex-wrap: wrap;
     background: #FFFFFF;
-    box-shadow: 0px 33px 96px rgba(255, 99, 112, 0.116068);
+    box-shadow: 0px 33px 96px var(--box-shadow-color);
     border-radius: 29px;
 }
 .cart_info .product .thumb

@@ -298,11 +298,17 @@
 	],
 	"file_history":
 	[
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/index.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/styles.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/response_1023.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/page-kurs.php",
 		"/C/xampp/htdocs/vers5/js/scripts.js",
+		"/C/xampp/htdocs/vers5/index.php",
+		"/C/xampp/htdocs/vers8/index.php",
+		"/C/xampp/htdocs/vers8/js/scripts.js",
 		"/C/xampp/htdocs/vers5/css/response_767.css",
 		"/C/xampp/htdocs/vers5/css/response_479.css",
 		"/C/xampp/htdocs/vers5/css/styles.css",
-		"/C/xampp/htdocs/vers5/index.php",
 		"/C/xampp/htdocs/vers5/article.html",
 		"/C/xampp/htdocs/vers5/css/response_1023.css",
 		"/C/xampp/htdocs/vers5/category.html",
@@ -321,12 +327,10 @@
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/page-home.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/main.css",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/main.js",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/styles.css",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/page-home 2.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/footer.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/page-tymen.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/cookie.txt",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/index.php",
 		"/C/xampp/htdocs/vers4/js/scripts.js",
 		"/C/xampp/htdocs/vers4/index.php",
 		"/C/Users/RaTeN/OneDrive/Desktop/Новая папка (8)/bg.svg",
@@ -421,15 +425,11 @@
 		"/C/xampp/htdocs/vers3/index4.html",
 		"/C/xampp/htdocs/vers3/js/functions.js",
 		"/C/xampp/htdocs/vers3/news.html",
-		"/C/xampp/htdocs/vers3/contacts.html",
-		"/C/xampp/htdocs/vers3/css/ion.rangeSlider.css",
-		"/C/xampp/htdocs/vers3/cart.html",
-		"/C/xampp/htdocs/vers3/article.html",
-		"/C/Users/RaTeN/Downloads/Shape (7).svg"
+		"/C/xampp/htdocs/vers3/contacts.html"
 	],
 	"find":
 	{
-		"height": 48.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -443,6 +443,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"подобр",
 			".gallery .flex",
 			"loop: true,",
 			"акци",
@@ -602,7 +603,7 @@
 	"project": "project5.sublime-project",
 	"replace":
 	{
-		"height": 90.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -622,7 +623,7 @@
 		[
 			[
 				"",
-				"C:\\xampp\\htdocs\\vers6\\project6.sublime-project"
+				"C:\\xampp\\htdocs\\vers8\\project8.sublime-project"
 			]
 		],
 		"width": 393.0
