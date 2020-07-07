@@ -1540,7 +1540,7 @@ header .menu .flexMenu-popup .item
 
 header .menu .flexMenu-popup .item a
 {
-    color: #fff;
+
     font-size: 14px;
     font-weight: bold;
     line-height: 17px;
@@ -7957,4 +7957,10 @@ header.fixed .info {
 
 .product_info .description{
     overflow: auto;
+}
+
+
+.soc_block .widget iframe.vk{
+    width: 320px;
+    height: 493px;
 }
