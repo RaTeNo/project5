@@ -1631,4 +1631,17 @@
         font-size: 18px;
         line-height: 22px;
     }
+
+       header .menu .item a.touch_link + .sub_menu.show {
+        display: block;
+        
+    }
+
+    header .menu .item a.touch_link + .sub_menu.show a {
+        padding-left:40px;
+    }
+
+    header .menu .item a.touch_link + .sub_menu.show .sub_menu a{
+        padding-left:50px;
+    }
 }
