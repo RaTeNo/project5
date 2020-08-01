@@ -1376,9 +1376,8 @@ header .menu .item > a span:after
 header .menu .item:hover > a,
 header .menu .item > a.active
 {
-    color: var(--main_color2);
-
-    background: #fff;
+    color: #fff;
+    background: var(--main_color1);
 }
 
 header .menu .sub_menu,
@@ -1438,8 +1437,8 @@ header .menu .sub_menu a
 header .menu .sub_menu a:hover,
 header .menu .sub_menu a.active
 {
-    background: #fff;
-    color:var(--main_color2);
+    color: #fff;
+    background: var(--main_color1);
 }
 
 header .menu .flexMenu-viewMore
@@ -1502,8 +1501,8 @@ header .menu .flexMenu-viewMore > a span:after
 header .menu .flexMenu-viewMore:hover > a,
 header .menu .flexMenu-viewMore.active > a
 {
-    background:#fff;
-    color: var(--main_color2);
+    color: #fff;
+    background: var(--main_color1);
 }
 
 header .menu .flexMenu-popup
@@ -1575,8 +1574,8 @@ header .menu .flexMenu-popup .item > a .icon
 header .menu .flexMenu-popup .item a:hover,
 header .menu .flexMenu-popup .item a.active
 {
-    background:#fff;
-    color: var(--main_color2);
+    color: #fff;
+    background: var(--main_color1);
 }
 
 header .menu .flexMenu-popup .sub_menu,
