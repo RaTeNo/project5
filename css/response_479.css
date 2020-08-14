@@ -919,4 +919,8 @@
         text-align: right;
     }
 
+    .products_category .flex>*{
+        width: calc(100%);
+    }
+
 }
